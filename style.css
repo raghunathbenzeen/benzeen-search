@@ -794,6 +794,7 @@ input[type="radio"] {
     margin: auto 0;
     border-top: none;
     border-bottom: 5px solid transparent;
+    opacity: 0.4;
 }
 
  
